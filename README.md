@@ -3,7 +3,7 @@
 This repository contains my personal work and experiments in **Feature Engineering**.  
 I am sharing notes, examples, and code snippets that cover various techniques used to prepare and transform data for machine learning models.
 
-## 📂 Topics Covered
+##  Topics Covered
 
 The repository includes detailed explanations and implementations of:
 
@@ -31,11 +31,11 @@ The repository includes detailed explanations and implementations of:
 - **Feature Transformation**  
   Applying mathematical transformations (log, Box-Cox, Yeo-Johnson, etc.) to improve feature distributions.
 
-## 💡 Goal
+##  Goal
 
 The goal of this repository is to create a **comprehensive reference** for feature engineering techniques that can be reused in real-world machine learning projects.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python  
 - [Scikit-learn](https://scikit-learn.org/)  
 - Pandas, NumPy, and other supporting libraries
